@@ -12,17 +12,18 @@ const Routing = () => {
   return (
     <div>
       <Routes>
-        <Route path="/home" element={<Home></Home>}></Route>
-        <Route path="/about" element={<About></About>}></Route>
-        <Route path="/services" element={<Services></Services>}></Route>
-        <Route path="/resume" element={<Resume></Resume>}></Route>
-        <Route path="/portfolio" element={<Portfolio></Portfolio>}></Route>
-        <Route path="/blog" element={<Blog></Blog>}></Route>
-        <Route path="/contact" element={<Contact></Contact>}></Route>
-        <Route path="*" element={<div>404 page not found</div>}></Route>
+        <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/services" element={<Services />} />
+        <Route path="/resume" element={<Resume />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="*" element={<div>404 page not found</div>} />
       </Routes>
     </div>
-  );  
+  );
 };
 
 export default Routing;
