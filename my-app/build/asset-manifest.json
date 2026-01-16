@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5007e514.css",
+    "main.js": "/static/js/main.78323aa8.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/Me1.jpg": "/static/media/Me1.b350e25edd5acd36caea.jpg",
+    "static/media/about_img.JPG": "/static/media/about_img.3d2cdeccc15ce3268cbb.JPG",
+    "static/media/tutorial.png": "/static/media/tutorial.2c9300002298a08f6940.png",
+    "static/media/work1.png": "/static/media/work1.e33e434da5a3ceadcdca.png",
+    "static/media/review.png": "/static/media/review.30c0ad7ea9a0a4009220.png",
+    "static/media/service3.png": "/static/media/service3.742ffa494fffc76d0924.png",
+    "static/media/business.png": "/static/media/business.f719f53a1afad0d8143b.png",
+    "static/media/work6.png": "/static/media/work6.28ef3dce7766371fed27.png",
+    "static/media/img1.png": "/static/media/img1.94cead199475872a6540.png",
+    "static/media/img2.png": "/static/media/img2.a7ccbe157adcb6eea647.png",
+    "static/media/work5.png": "/static/media/work5.b47367af05c5358c590b.png",
+    "static/media/work2.png": "/static/media/work2.4510a94b2abed9b7afa6.png",
+    "static/media/service1.png": "/static/media/service1.964a788171a0ed1593d0.png",
+    "static/media/Sanket-Parajuli-CV.pdf": "/static/media/Sanket-Parajuli-CV.f6fd242da650a1e66a7b.pdf",
+    "static/media/work3.png": "/static/media/work3.fc23ec01bf376198fe0a.png",
+    "static/media/Logo.png": "/static/media/Logo.fb5b92133dbc0f6e9027.png",
+    "static/media/work4.png": "/static/media/work4.5f2d471693fe36d4bd3f.png",
+    "index.html": "/index.html",
+    "main.5007e514.css.map": "/static/css/main.5007e514.css.map",
+    "main.78323aa8.js.map": "/static/js/main.78323aa8.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5007e514.css",
+    "static/js/main.78323aa8.js"
+  ]
+}
