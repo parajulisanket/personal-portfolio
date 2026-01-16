@@ -19,7 +19,7 @@ const Home = () => {
         <span className="home__education">
           I'm a front-End developer
           <HeaderSocial />
-        </span>. 
+        </span>
 
         <a href="#contact" className="btn">
           Hire me
